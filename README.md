@@ -11,7 +11,7 @@ A website that offers digital marketing services such as:
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://efremc93.github.io/horiseon/
 
 ## Contribution
 Made with ❤️ by Efrem Chism.
