@@ -1,7 +1,10 @@
 # Horiseon
 
 ## Purpose
-A website that offers digital marketing services such as Search Engine Optimization, Online Reputation Management, & Social Media Marketing.
+A website that offers digital marketing services such as: 
+* Search Engine Optimization 
+* Online Reputation Management
+* Social Media Marketing.
 
 ## Built With
 * HTML
