@@ -15,3 +15,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Efrem Chism.
+
+<img src="./assets/images/screenshot.png" alt="" />
